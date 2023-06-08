@@ -9,4 +9,3 @@
 - TS
 - Vite
 - React Query
-  
