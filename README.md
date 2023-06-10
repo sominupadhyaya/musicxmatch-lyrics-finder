@@ -9,3 +9,8 @@
 - TS
 - Vite
 - React Query
+
+## Getting Started:
+
+- Git clone the app then create an account in musixmatch api
+- Create a client.ts file and add the api key and url given 
